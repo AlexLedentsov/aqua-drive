@@ -48,7 +48,7 @@ export const SERVICES = [
     description: "Кузов, арки, диски, пылесос салона, протирка пластика и стёкол.",
     price: "от 1200 ₽",
     image:
-      "https://images.unsplash.com/photo-1520340358514-3d2aab0d7b8f?auto=format&fit=crop&w=1200&q=80",
+      "https://images.unsplash.com/photo-1485291571150-772bcfc10da5?auto=format&fit=crop&w=1200&q=80",
   },
   {
     id: "interior",
