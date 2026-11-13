@@ -29,7 +29,7 @@
   --color-glass-border: var(--glass-border);
   --color-success: var(--success);
   --color-danger: var(--danger);
-  --font-display: var(--font-syne);
+  --font-display: var(--font-unbounded);
   --font-sans: var(--font-manrope);
 }
 
@@ -42,6 +42,7 @@ body {
   color: var(--text);
   font-family: var(--font-manrope), system-ui, sans-serif;
   overflow-x: hidden;
+  color-scheme: dark;
 }
 
 ::selection {
